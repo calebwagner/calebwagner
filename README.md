@@ -2,7 +2,7 @@
 
 I'm currently ...
 - :eyes: looking for my next role as a software developer
-- :telescope: working on my ReactJS and Django skills (and somee ds & a too)
+- :telescope: working on my ReactJS and Django skills (and some ds & a too)
 
 ### Connect with me ... 
 :outbox_tray: [My LinkedIn](www.linkedin.com/in/caleb-wagner-profile/)
