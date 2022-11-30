@@ -1,8 +1,7 @@
 # Hi there :wave:, I'm Caleb
 
 I'm currently ...
-- :eyes: looking for my next role as a software developer
-- :telescope: working on my ReactJS and Django skills (and some ds & a too)
+- :telescope: working on my Python/Django, SQL, data structures and algorithm skills
 
 ### Connect with me ... 
 :outbox_tray: [My LinkedIn](www.linkedin.com/in/caleb-wagner-profile/)
