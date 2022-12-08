@@ -4,7 +4,7 @@ I'm currently ...
 - :telescope: working on my React, Python/Django, SQL, data structures and algorithm skills
 
 ### Connect with me ... 
-:outbox_tray: [My LinkedIn](www.linkedin.com/in/caleb-wagner-profile/)
+:outbox_tray: [My LinkedIn](https://www.linkedin.com/in/caleb-wagner-profile/)
 
 :open_file_folder: [My portfolio website](https://calebwagner.github.io/portfolio-website/)
 
