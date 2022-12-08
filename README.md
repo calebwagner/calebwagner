@@ -6,7 +6,7 @@ I'm currently ...
 ### Connect with me ... 
 :outbox_tray: [My LinkedIn](www.linkedin.com/in/caleb-wagner-profile/)
 
-:open_file_folder: [My portfolio website](calebwagner.github.io/portfolio-website/)
+:open_file_folder: [My portfolio website](https://calebwagner.github.io/portfolio-website/)
 
 
 ### Languages & Frameworks I used:
