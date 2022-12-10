@@ -6,6 +6,11 @@ I'm currently ...
 
 :telescope: looking for my next role
 
+## About Me
+During my time in college while earning a degree in economics, I was introduced to the world of programming. I dove into programming by exploring all the ways programming languages such as Python could be applied to econometrics and statistics. Also, I was fascinated by the idea that I could come up with an idea and then put these thoughts in code to be displayed for others to see whether it be a simple productivity or social media app that solves a problem.
+
+Fast forward a couple years later and I’m currently a full-stack software developer. I choose this specific career path after graduating from college wanting to continue with work that was both mentally stimulating and personally satisfying. For me, there’s nothing more satisfying than to think creatively about how to solve a problem and then to carry out the with the solution.
+
 ## Connect with me ... 
 :outbox_tray: [My LinkedIn](https://www.linkedin.com/in/caleb-wagner-profile/)
 
