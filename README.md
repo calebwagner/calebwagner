@@ -1,7 +1,10 @@
 # Hi there :wave:, I'm Caleb
 
 I'm currently ...
-- :telescope: working on my Python/Django, SQL, data structures and algorithm skills
+
+💪 working on my Python/Django, SQL, data structures and algorithm skills
+
+:telescope: looking for my next role
 
 ## Connect with me ... 
 :outbox_tray: [My LinkedIn](https://www.linkedin.com/in/caleb-wagner-profile/)
