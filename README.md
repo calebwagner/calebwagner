@@ -1,4 +1,4 @@
-# Hi there :wave:, I'm Caleb ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=calebwagner.visitor-badge)
+# Hi there :wave:, I'm Caleb 
 
 <p align="center">
 <img width="500" src="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg" />
@@ -54,3 +54,8 @@ Fast forward a couple years later and I’m currently a full-stack software deve
 
   </p>
 </details>
+
+
+
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=calebwagner.visitor-badge)
