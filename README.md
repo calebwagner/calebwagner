@@ -1,5 +1,9 @@
 # Hi there :wave:, I'm Caleb ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=calebwagner.visitor-badge)
 
+<p align="center">
+<img width="500" src="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg" />
+</p>
+
 ### I'm currently ...
 
 💪  working on my Python/Django, SQL, data structures and algorithm skills
