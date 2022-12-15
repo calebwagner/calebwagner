@@ -6,7 +6,7 @@
 
 ### I'm currently ...
 
-💪  working on my Python/Django, SQL, data structures and algorithm skills
+💪  working on my Python/Django, SQL, React, data structures and algorithm skills
 
 :telescope:  looking for my next role
 
