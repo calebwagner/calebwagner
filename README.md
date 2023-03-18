@@ -1,14 +1,8 @@
 # Hi there :wave:, I'm Caleb 
 
-<p align="center">
-<img width="500" src="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg" />
-</p>
-
 ### I'm currently ...
 
 💪  working on my Python/Django, SQL, React, data structures and algorithm skills
-
-:telescope:  looking for my next role
 
 #
 
