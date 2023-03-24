@@ -1,8 +1,8 @@
 # Hi there :wave:, I'm Caleb 
 
-### I'm currently ...
+### As of March 2023 I'm ...
 
-💪  working on my Python/Django, SQL, React, data structures and algorithm skills
+💪  working on my Java, SQL, React, data structures and algorithm skills
 
 #
 
@@ -24,6 +24,7 @@ Fast forward a couple years later and I’m currently a full-stack software deve
 #
 
 ### Languages & Frameworks I use:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
