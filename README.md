@@ -7,7 +7,7 @@
 #
 
 ### Portfolio Website
-🔗 [caleb-wagner.com]([caleb-wagner.com](https://calebwagner.github.io/portfolio-website/))
+🔗 [caleb-wagner.com](https://calebwagner.github.io/portfolio-website/)
 
 ### Connect with me ... 
 :outbox_tray: [My LinkedIn](https://www.linkedin.com/in/caleb-wagner-profile)
