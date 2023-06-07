@@ -2,7 +2,7 @@
 
 ### As of June 2023 I'm ...
 
-💪  working on my Javascript, Typescript, Vue, C#, data structures and algorithm skills
+💪  working on my Javascript, Typescript, Vue, Node, C#, data structures and algorithm skills
 
 #
 
