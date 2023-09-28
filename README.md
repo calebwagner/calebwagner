@@ -1,6 +1,6 @@
 # Hi there :wave:, I'm Caleb 
 
-### As of Summer 2023 I'm ...
+### As of Fall 2023 I'm ...
 
 💪  working on my Typescript, React, Java, data structures and algorithm skills
 
