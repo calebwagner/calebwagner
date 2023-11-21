@@ -2,7 +2,7 @@
 
 ### As of Fall 2023 I'm ...
 
-💪  working on my SQL, Java, data structures and algorithm skills
+💪  working on my backend skills using Java and Sprint Boot
 
 #
 
