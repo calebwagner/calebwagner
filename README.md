@@ -1,6 +1,6 @@
 # Hi there :wave:, I'm Caleb 
 
-### As of Fall 2023 I'm ...
+### As of Spring 2024 I'm ...
 
 💪  working on my backend skills using Java and Sprint Boot
 
