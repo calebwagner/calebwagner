@@ -1,8 +1,9 @@
 # Hi there :wave:, I'm Caleb 
 
-### As of Spring 2024 I'm ...
+### As of Summer 2024 I'm ...
 
-💪  working on my backend skills using Java and Sprint Boot
+💪  working on my backend skills using Java and Spring Boot
+🕵️‍♂️  exploring Golang by building a compiler, interpreter, and REST API
 
 #
 
